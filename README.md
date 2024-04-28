@@ -34,7 +34,7 @@ To run this project locally, follow these steps:
    git clone https://github.com/Rushi2398/dukaan-ui.git
    ```
 
-2. Navigate to dukaan-assignment
+2. Navigate to dukaan-ui
 
    ```bash
    cd dukaan-assignment
