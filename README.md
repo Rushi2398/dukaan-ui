@@ -37,7 +37,7 @@ To run this project locally, follow these steps:
 2. Navigate to dukaan-ui
 
    ```bash
-   cd dukaan-assignment
+   cd dukaan-ui
    ```
 
 3. Install Dependencies
